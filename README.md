@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhammad+Hamza;Full-Stack+Developer;React+%7C+FastAPI+%7C+PostgreSQL;Always+building+something+cool" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhammad+Hamza;Full-Stack+Developer;React+%7C+FastAPI+%7C+PostgreSQL;Always+building+something+cool+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -18,6 +18,7 @@ hamza = {
     "role":       "Full-Stack Developer | UI/UX Designer",
     "location":   "Faisalabad, Pakistan 🇵🇰",
     "education":  "BS Computer Science @ FAST-NUCES (2024–2028)",
+    "currently":  "Building CloakPK — a premium fashion e-commerce platform",
     "skills":     ["React", "TypeScript", "FastAPI", "PostgreSQL", "Tailwind CSS"],
     "contact":    "hamzacs1028@gmail.com",
 }
@@ -40,6 +41,7 @@ hamza = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
@@ -64,6 +66,7 @@ hamza = {
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_IDE-4B0082?style=for-the-badge&logo=rocket&logoColor=white)
 
 ---
 
