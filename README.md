@@ -18,7 +18,6 @@ hamza = {
     "role":       "Full-Stack Developer | UI/UX Designer",
     "location":   "Faisalabad, Pakistan 🇵🇰",
     "education":  "BS Computer Science @ FAST-NUCES (2024–2028)",
-    "currently":  "Building CloakPK — a premium fashion e-commerce platform",
     "skills":     ["React", "TypeScript", "FastAPI", "PostgreSQL", "Tailwind CSS"],
     "contact":    "hamzacs1028@gmail.com",
 }
